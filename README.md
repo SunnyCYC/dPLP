@@ -6,7 +6,7 @@ This is the repository of the ISMIR paper, *dPLP: A Differentiable Version of Pr
 * Datasets: as mentioned in the paper, this repo also includes 100 pop tracks from GTZAN[1] for the experiments, organized as follows:
     * dataset/gtzan:
         * downbeats: the beat/downbeat annotations
-        * audio: the wave files
+        * audio: please upload the gtzan audio files to this folder following the naming of [./dataset/gtzan/audio/audio_files.txt](https://github.com/SunnyCYC/dPLP/blob/main/dataset/gtzan/audio/audio_files.txt)
         * train-info: the train/test/valid splits
 * Scripts: All .py scripts can be run directly at this project folder. See the following sections for the orders and purposes of them.
 
