@@ -33,5 +33,9 @@ This is the repository of the ISMIR paper, *dPLP: A Differentiable Version of Pr
 ### Evaluation
 [evaluate.py](https://github.com/SunnyCYC/dPLP/blob/main/evaluate.py): This script reads beat estimates and save all the result at ./evaluation accordingly. You may modify the directories to evaluate beat estimates of argmax/softmax PLP.
 
+## License
+
+This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
+
 ### References
 *[1] G. Tzanetakis and P. Cook, “Musical genre classification of audio signals,” IEEE Trans. Speech and Audio Processing, vol. 10, no. 5, pp. 293–302, 2002.*
