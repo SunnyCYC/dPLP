@@ -35,7 +35,7 @@ This is the repository of the ISMIR paper, *dPLP: A Differentiable Version of Pr
 
 ## License
 
-This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE.txt) file for details.
 
 ### References
 *[1] G. Tzanetakis and P. Cook, “Musical genre classification of audio signals,” IEEE Trans. Speech and Audio Processing, vol. 10, no. 5, pp. 293–302, 2002.*
